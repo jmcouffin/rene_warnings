@@ -22,4 +22,4 @@ Note: notice the pin icon at the top of the window to always keep it on top whil
 ![image](https://user-images.githubusercontent.com/7872003/190386440-3289a5b4-412c-4013-bc46-c5a5d2a1ecd8.png)
 
 If you like what I do, you can support me 
-[@buymeacoffee](buymeacoffee.com/jmco)
+[buymeacoffee](https://buymeacoffee.com/jmco)
